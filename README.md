@@ -15,13 +15,6 @@ This guide explains how to set up database replication in a Laravel application 
 - [Database Replication Process](#database-replication-process)
     - [Master Configuration](#master-configuration)
     - [Slave Configuration](#slave-configuration)
-- [Docker Setup](#docker-setup)
-    - [Docker Compose](#docker-compose)
-    - [Dockerfile](#dockerfile)
-    - [Nginx Configuration](#nginx-configuration)
-- [MySQL Configuration](#mysql-configuration)
-    - [Master MySQL Configuration](#master-mysql-configuration)
-    - [Slave MySQL Configuration](#slave-mysql-configuration)
 
 ---
 
